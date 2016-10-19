@@ -1,0 +1,7 @@
+Android SDK Change Log
+Version 1.2
+_________________________
+
+1. Updated the Buinesses Details Log to reflect the Change made on how the response comes back from the server
+
+2. Updated Docs

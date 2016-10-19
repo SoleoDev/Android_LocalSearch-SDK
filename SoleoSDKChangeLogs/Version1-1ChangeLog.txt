@@ -1,0 +1,17 @@
+Android SDK Change Log
+Version 1.1
+________________________
+
+1. Added method for removing search Criteria that was already added.
+
+2. Overloaded method getCategoryService (Now call getCategoriesRequest) to include 
+level of categories returned
+
+3. Renamed getCategoryService(...) -> getCategoriesRequest(...)
+
+4. Renamed launchSearchService(...) -> requestBusinessSearch(...)
+
+5. Updated APIMatic to fix a bug in the Child Categories.
+
+
+
