@@ -1,16 +1,16 @@
 # Android-SDK
 Soleo Local Search API SDK for Android
 
-Soleo Local Search API allows developer to access Soleo's extensive Local Business Data system that includes 20,000 small, local business in the US.
+Soleo Local Search API allows developers to access Soleo's extensive Local Business Data system that includes 20,000 small, local businesses in the US.
 
-The API also allows developer to monetize call intent from user to guide users to Advertise companies that are loca, up to date and verified.
+The API also allows developers to monetize by connecting users with sponsored companies that are local, up-to-date and verified.
 
 The Soleo Local Search API allows developers to build amazing local search solutions that connect people with businesses and monetize like nowhere else.
 
 For more information:
 http://developer.soleo.com
 
-#Dependancies
+#Dependencies
 Soleo:
   Soleo Local Search API key = http://developer.soleo.com
   
@@ -27,7 +27,7 @@ External(MAVEN):
 
 1) Create a API key in developer.soleo.com
 2) Add Files to your Project
-3) Add dependancies to the project as needed.
+3) Add dependencies to the project as needed.
 4) Change the API key in src/main/java/com/soleo/lsapi/Configuration.java file
 5) Create the SoleoAPI object, instantiate and request data.
 6) Use Business objects to get the Local Business data and to request monetization information
